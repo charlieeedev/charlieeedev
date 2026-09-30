@@ -20,8 +20,6 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charlieeedev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlieeedev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
@@ -33,5 +31,5 @@
 
 ---
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>if you see this... u should follow me on github</i>
 </div>
