@@ -20,7 +20,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charlieeedev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://readme-stats-github.pages.dev/api?username=charlieeedev&theme=dark" alt="GitHub Stats" />
+</div>
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=charlieeedev&theme=dark" alt="Top Languages" />
 </div>
 
 ## 👀 Profile Views
