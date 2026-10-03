@@ -26,7 +26,7 @@
 ## 👀 Profile Views
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=princesscharlie&label=Profile%20Views&color=8a2be2&style=for-the-badge" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=charlieeedev" alt="Profile Views Counter" />
 </div>
 
 ---
