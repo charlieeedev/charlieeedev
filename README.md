@@ -20,9 +20,7 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  ![charlieeedev's GitHub Stats](https://readme-stats-github.pages.dev/api?username=charlieeedev&theme=dark)
-</div>
-  ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=charlieeedev&theme=dark)
+  <img src="https://readme-stats-github.pages.dev/api?username=charlieeedev&theme=dark" alt="GitHub Stats" />
 </div>
 
 ## 👀 Profile Views
