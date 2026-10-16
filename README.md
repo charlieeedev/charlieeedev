@@ -5,8 +5,8 @@
 </div>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Nothing..**
-- 💲I do not currently have any paid or free work. 
+- 🎓 I am currently a student studying Travel & Tourism.
+- 💲Currently not taking on any Freelance / Contract work. Will be looking to start around the End of Q1 to Mid Q2 2027
 
 ## 💻 Tech Stack
 <p align="left">
